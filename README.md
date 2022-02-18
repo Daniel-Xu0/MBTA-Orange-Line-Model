@@ -6,8 +6,12 @@ Files Include:
 - Predictive Model Directory
   - Average delay data calculated for every train stop along the Orange Line
   - Average daily delay data for each train stop
-  - Model synthesizing delay time data which can estimate your approximate wait time for any route along the Orange Line
+  - Python-based ML Model synthesizing delay time data which can estimate your approximate wait time for any route along the Orange Line
 
 - Demographic Mapping Directory
   - GeoJSON files used to visualize Boston neighborhoods
-  - 
+  - Excel files with various data on each neighborhood's demographics
+  - Sample visualizations of Boston neighborhood demographics
+  - Helper Python code that plots any demographic inputted
+
+- Presentation and Writeup on Findings
